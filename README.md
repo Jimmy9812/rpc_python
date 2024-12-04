@@ -3,13 +3,13 @@
 This project implements a basic Remote Procedure Call (RPC) service using gRPC in Python. The service allows a client to send a "Hello" request to a server and receive a "Hello, World" response.
 
 ## Technologies Used
-Python 3.x: Programming language used for the project.
-gRPC: A high-performance RPC framework.
-Protocol Buffers (Protobuf): Used for defining the service and message structures.
+- Python 3.x: Programming language used for the project.
+- gRPC: A high-performance RPC framework.
+- Protocol Buffers (Protobuf): Used for defining the service and message structures.
 ## Requirements
-Python 3.x or higher.
-pip for installing dependencies.
-gRPC tools for generating Python code from .proto files.
+- Python 3.x or higher.
+- pip for installing dependencies.
+- gRPC tools for generating Python code from .proto files.
 ## Installation
 1. Clone the repository
 Clone the repository to your local machine:
