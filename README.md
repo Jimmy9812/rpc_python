@@ -19,7 +19,7 @@ git clone https://github.com/Jimmy9812/rpc_python.git
 2. Navigate to the project directory
 Change to the project directory:
 ```bash
-cd rpc-python
+cd rpc_python
 ```
 3. Create a virtual environment (optional, but recommended)
 Create a virtual environment for the project:
