@@ -14,7 +14,7 @@ This project implements a basic Remote Procedure Call (RPC) service using gRPC i
 1. Clone the repository
 Clone the repository to your local machine:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jimmy9812/rpc_python.git
 ```
 2. Navigate to the project directory
 Change to the project directory:
